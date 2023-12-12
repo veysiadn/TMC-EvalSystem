@@ -10,11 +10,7 @@
 #include "boards/Board.h"
 #include "hal/derivative.h"
 #include "hal/HAL.h"
-#include "tmc/IdDetection.h"
-#include "tmc/TMCL.h"
-#include "tmc/VitalSignsMonitor.h"
-#include "tmc/BoardAssignment.h"
-#include "tmc/RAMDebug.h"
+#include "tmc/StepDir.h"
 
 const char *VersionString = MODULE_ID "V309"; // module id and version of the firmware shown in the TMCL-IDE
 
