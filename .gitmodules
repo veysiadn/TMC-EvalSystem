@@ -1,4 +1,0 @@
-[submodule "TMC-API"]
-	path = TMC-API
-	url = git@github.com:veysiadn/TMC-API.git
-	branch = master
